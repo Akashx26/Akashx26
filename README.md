@@ -1,8 +1,8 @@
 
-<!-- =================================================== -->
-<!-- AKASH S | PERSONAL GITHUB PORTFOLIO                 -->
-<!-- MIDNIGHT NEON: PURPLE + PINK + CYAN                 -->
-<!-- =================================================== -->
+<!-- ================================================== -->
+<!-- AKASH S | PERSONAL GITHUB PORTFOLIO                -->
+<!-- MIDNIGHT NEON | PURPLE + PINK + CYAN               -->
+<!-- ================================================== -->
 
 <div align="center">
 
@@ -44,11 +44,11 @@
 
 <h2>ABOUT ME</h2>
 
-Hey! I'm **Akash S**, a student and aspiring developer interested in programming, technology and software development.
+Hey! I'm <b>Akash S</b>, a student and aspiring developer interested in programming, technology and software development.
 
 I enjoy building practical projects, exploring new technologies and improving my skills through hands-on experience.
 
-### CURRENT INTERESTS
+<h3>CURRENT INTERESTS</h3>
 
 - Python programming
 - Web development
@@ -56,7 +56,7 @@ I enjoy building practical projects, exploring new technologies and improving my
 - Modern user interfaces
 - Software engineering
 
-### MY APPROACH
+<h3>MY APPROACH</h3>
 
 Building projects, experimenting with ideas and learning something new every day.
 
@@ -101,7 +101,7 @@ Building projects, experimenting with ideas and learning something new every day
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,vite,flask&theme=dark" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,vite,flask&theme=dark" alt="Frameworks and libraries"/>
 
 <br/><br/>
 
@@ -164,9 +164,7 @@ Building projects, experimenting with ideas and learning something new every day
 <h2 align="center">FEATURED PROJECTS</h2>
 
 <div align="center">
-
 <sub>IDEAS TURNED INTO CODE</sub>
-
 </div>
 
 <table>
@@ -277,30 +275,18 @@ Explore my other experiments and repositories.
 
 ---
 
-<!-- FINAL SIGNATURE PANELS -->
+<!-- FINAL SIGNATURE -->
 
 <div align="center">
 
-<h2>26:22</h2>
-
-<img src="https://raw.githubusercontent.com/Akashx26/Akashx26/main/akash-2622-panel.gif" width="100%" alt="26:22 animated panel"/>
+<img src="https://raw.githubusercontent.com/Akashx26/Akashx26/main/infinite-hope-heart.gif" width="100%" alt="Infinite Hope animated heart"/>
 
 <br/><br/>
 
-<h2>INFINITE HOPE</h2>
-
-<img src="https://raw.githubusercontent.com/Akashx26/Akashx26/main/infinite-hope-heart.gif" width="100%" alt="Infinite Hope animated red heart"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090812,35:6D174E,65:8B5CF6,100:12394D&height=155&section=footer&text=AKASH%20S&fontSize=58&fontColor=FF4FA3&animation=fadeIn&desc=BUILDING%20%7C%20LEARNING%20%7C%20EVOLVING&descSize=17&descColor=67E8F9&descAlignY=80" width="100%" alt="Akash S signature"/>
 
 <br/><br/>
 
-<b>AKASH S</b>
-
-<br/>
-
-<sub>BUILDING · LEARNING · EVOLVING</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090812,40:6D174E,75:25103D,100:102F46&height=110&section=footer" width="100%" alt="Footer decoration"/>
+<sub>THANK YOU FOR VISITING</sub>
 
 </div>
